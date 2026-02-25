@@ -1,7 +1,7 @@
 # 🚀 Atividade Prática: Criando um Site Responsivo com HTML & CSS
 
 ## 📌 **Sobre a Atividade**
-Esta atividade faz parte da disciplina de **Desenvolvimento Web I** no curso de **Análise e Desenvolvimento de Sistemas da UNIFIP**, ministrada pelo professor **José Matheus**.
+Esta atividade faz parte da disciplina de **Desenvolvimento Web II** no curso de **Análise e Desenvolvimento de Sistemas da UNIFIP**, ministrada pelo professor **José Matheus**.
 
 O objetivo é que você **modifique, personalize e expanda** o projeto base fornecido, aplicando os conceitos de **HTML semântico, CSS moderno, responsividade e boas práticas**.
 
